@@ -15,6 +15,6 @@ We don't want to have to enforce restrictions on you, but there are a few things
 Flags for this competition will follow the format: `flag\{[0-9a-f]{32}\}`. That means a ``flag{}`` wrapper with what looks like an MD5 hash inside the curly braces. If you look closely, you can even find a flag on this page!
 
 Support
-For admin support in the case of any technical issues, please join the NahamSec Discord server: [](https://discord.com/invite/ucCz7uh).
+For admin support in the case of any technical issues, please join the NahamSec Discord server: [https://discord.com/invite/ucCz7uh](https://discord.com/invite/ucCz7uh).
 
 You should find a `#ctf` channel in the **NahamCon 2022** category and direct your questions there. When your question requires discussing a specific challenge, please direct message one of the challenge authors as noted in the challenge description.
